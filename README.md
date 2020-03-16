@@ -1,5 +1,5 @@
 # GEE-applications
-Google Earth Engine Applications
+Collection of short Google Earth Engine Applications
 
 
 
